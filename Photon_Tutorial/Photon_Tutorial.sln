@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photon_Tutorial.Plugins", "Photon_Tutorial.Plugins.csproj", "{45969159-4CEA-A752-3FFB-CCED02E0FE31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photon_Tutorial", "Photon_Tutorial.csproj", "{B763903E-731E-E603-4F42-017AAA7787D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photon_Tutorial.Editor.Plugins", "Photon_Tutorial.Editor.Plugins.csproj", "{08197379-9FBC-7E0A-B726-B1DAC8D83B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photon_Tutorial.Editor", "Photon_Tutorial.Editor.csproj", "{E4B5F4AF-3D68-04FB-2583-D1623101C4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45969159-4CEA-A752-3FFB-CCED02E0FE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45969159-4CEA-A752-3FFB-CCED02E0FE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45969159-4CEA-A752-3FFB-CCED02E0FE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45969159-4CEA-A752-3FFB-CCED02E0FE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B763903E-731E-E603-4F42-017AAA7787D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B763903E-731E-E603-4F42-017AAA7787D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B763903E-731E-E603-4F42-017AAA7787D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B763903E-731E-E603-4F42-017AAA7787D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08197379-9FBC-7E0A-B726-B1DAC8D83B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08197379-9FBC-7E0A-B726-B1DAC8D83B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08197379-9FBC-7E0A-B726-B1DAC8D83B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08197379-9FBC-7E0A-B726-B1DAC8D83B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B5F4AF-3D68-04FB-2583-D1623101C4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B5F4AF-3D68-04FB-2583-D1623101C4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B5F4AF-3D68-04FB-2583-D1623101C4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B5F4AF-3D68-04FB-2583-D1623101C4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
